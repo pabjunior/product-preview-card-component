@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: [Netlify](https://chipper-stardust-7a5b5b.netlify.app/)
+- Live Site URL: [https://chipper-stardust-7a5b5b.netlify.app/](https://chipper-stardust-7a5b5b.netlify.app/)
 
 ## My process
 

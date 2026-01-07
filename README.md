@@ -62,7 +62,6 @@ I want to continue improving my skills in responsive design and CSS techniques. 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@pabjunior](https://www.frontendmentor.io/profile/pabjunior)
 - Twitter - [@PAB_junior](https://x.com/PAB_junior)
 
